@@ -1,1 +1,45 @@
 # composition-substrat
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>Microsoft Word - VER_CS009301_F_149954320570.rtf</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<div style="page-break-before:always; page-break-after:always"><div><p> <br/></p>
+<p> <br/> <br/></p>
+<p><b><i>N&#176; labo SPB: CS009301</i> 1 <br/></b></p>
+<p><b>SERVICE PEDOLOGIQUE DE BELGIQUE A.S.B.L. <br/></b>W.de Croylaan 48  BNP: BE22 0015 8344 2447 <br/>B-3001 Heverlee   KBC: BE94 7364 0303 0014 <br/>Tel.: 016 31 09 22 - Fax: 016 22 42 06  PCR: BE95 0000 4991 2358 <br/>E-mail: info@bdb.be  T.V.A.:     BE 0420.415.024 <br/></p>
+<p>   <br/><b>D&#233;l&#233;gu&#233; </b>  <b>LA MYCOSPHERE - PRODUCTION DE <br/></b></p>
+<p><b>CHAMPIGNONS ET MYCELIUMS BIO  </b> <br/>375705<b> </b>LA MYCOSPHERE - PRODUCTION <br/>DE CHAMPIGNONS ET MYCELIUMS BIO  <br/></p>
+<p>  <br/>    RUE DU ZEMONT 32   <br/>    5030 GEMBLOUX <br/>     <br/>    <br/></p>
+<p><b>R&#233;sultats d'analyse <br/></b> <br/><b>N&#176; de client:  </b>375705 <br/><b>N&#176; labo SPB: </b> CS009301 <br/><b>N&#176; &#233;chantillon: </b> 1 <br/><b>Date d'&#233;chantillonnage: </b> - <br/></p>
+<p><b>Date de r&#233;ception: </b> 30/01/2025 <br/><b>Date du rapport: </b> 14/02/2025 <br/><b>Nom de l'&#233;chantillon: </b> <i>substrat de champignons<br/></i></p>
+<p> <br/><b>Param&#232;tre R&#233;sultat   Unit&#233; Date N&#176; m&#233;thode SPB <br/>       <br/></b></p>
+<p><b>Param&#232;tres g&#233;n&#233;raux</b>       <br/> <br/>Mati&#232;re s&#232;che 37.9   % 30/01/2025 355 B <br/> <br/>Mati&#232;re organique 37   % 30/01/2025 356 B <br/> <br/>pH (eau) 5.9    30/01/2025 352 B <br/> <br/><b>Analyses inorganiques</b>       <br/> <br/>Azote total (N) 0.240   % 30/01/2025 357 B + 435 B <br/>                                                 exprim&#233; en kg/1000 kg: 2.40 <br/>Azote ammoniacal (NH4-N) 34   mg N/l 30/01/2025 435 B <br/> <br/><b> </b>       <br/> <br/>Arsenic total (As) &lt;2.0   mg/kg MS 30/01/2025 360 B <br/> <br/>Cadmium total (Cd) &lt;0.20   mg/kg MS 30/01/2025 360 B <br/> <br/>Chrome total (Cr) &lt;5.0   mg/kg MS 30/01/2025 360 B <br/> <br/>Cuivre total (Cu) &lt;5.0   mg/kg MS 30/01/2025 360 B <br/> <br/>Plomb total (Pb) &lt;10.0   mg/kg MS 30/01/2025 360 B <br/> <br/>Nickel total (Ni) &lt;3.0   mg/kg MS 30/01/2025 360 B <br/> <br/>Zinc total (Zn) &lt;20   mg/kg MS 30/01/2025 360 B <br/> <br/>Mercure total (Hg) &lt;0.070   mg/kg MS 30/01/2025 359 B <br/> <br/>   <b>  </b>  <br/> <br/><b>Conclusion/remarques:</b> <br/>Masse volumique:  0.451  kg/l  <br/>Mati&#232;re organique:  97  % sur MS  <br/>Azote total (N):  0.633  % sur MS  <br/>Azote ammoniacal (NH4-N):  0.020  % sur MS  <br/> </p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p> <br/></p>
+<p> <br/></p>
+<p><b>SERVICE PEDOLOGIQUE DE BELGIQUE A.S.B.L. <br/></b>W.de Croylaan 48  BNP: BE22 0015 8344 2447 <br/>B-3001 Heverlee   KBC: BE94 7364 0303 0014 <br/>Tel.: 016 31 09 22 - Fax: 016 22 42 06  PCR: BE95 0000 4991 2358 <br/>E-mail: info@bdb.be  T.V.A.:     BE 0420.415.024 <br/></p>
+<p><b><i>N&#176; labo SPB: CS009301</i> 2 <br/></b></p>
+<p> <br/></p>
+<p>  <br/> Chef de laboratoire <br/> Dr. T. Van Neck </p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p> <br/></p>
+<p> <br/></p>
+<p><b>SERVICE PEDOLOGIQUE DE BELGIQUE A.S.B.L. <br/></b>W.de Croylaan 48  BNP: BE22 0015 8344 2447 <br/>B-3001 Heverlee   KBC: BE94 7364 0303 0014 <br/>Tel.: 016 31 09 22 - Fax: 016 22 42 06  PCR: BE95 0000 4991 2358 <br/>E-mail: info@bdb.be  T.V.A.:     BE 0420.415.024 <br/></p>
+<p><b><i>N&#176; labo SPB: CS009301</i> 3 <br/></b></p>
+<p> <br/> <br/><b>Accr&#233;ditation / Agr&#233;ments <br/></b> <br/><b>Param&#232;tre N&#176; m&#233;thode <br/></b></p>
+<p><b>SPB <br/>Accr&#233;ditation / <br/>Agr&#233;ments <br/></b></p>
+<p><b>M&#233;thode d'essai  <br/>    <br/></b>Mati&#232;re s&#232;che 355 B;9;16 EN 13040; CMA/2/IV/1  <br/>Mati&#232;re organique 356 B;9;16 CMA/2/IV/3  <br/>pH (eau) 352 B;9;16 NBN EN 13037; CMA/2/IV/13  <br/>Azote total (N) 357  + 435 B;9;16 EN 13342; ISO 5664; CMA/2/IV/4; CMA/2/II/A.16 + CMA/2/IV/7; Pr&#233;paration <br/></p>
+<p>d'&#233;chantillons: NBN EN 13652, CMA/2/IV/6; Analyse par continuous flow: <br/>CMA/2/I/E.2 et CMA/2/I/C.6 <br/></p>
+<p> <br/></p>
+<p>Azote ammoniacal <br/>(NH4-N) <br/></p>
+<p>435 B;9;16 CMA/2/IV/7; Pr&#233;paration d'&#233;chantillons: CMA/2/IV/6; Analyse par continuous <br/>flow: CMA/2/I/E.2 <br/></p>
+<p> <br/>Arsenic total (As) 360 B;9;16 CMA/2/IV/19, CMA/2/IV/6, Analyse par ICP-AES: ISO 11885, CMA/2/I/B.1  <br/>Cadmium total (Cd) 360 B;9;16 CMA/2/IV/19, CMA/2/IV/6, Analyse par ICP-AES: ISO 11885, CMA/2/I/B.1  <br/>Chrome total (Cr) 360 B;9;16 CMA/2/IV/19, CMA/2/IV/6, Analyse par ICP-AES: ISO 11885, CMA/2/I/B.1  <br/>Cuivre total (Cu) 360 B;9;16 CMA/2/IV/19, CMA/2/IV/6, Analyse par ICP-AES: ISO 11885, CMA/2/I/B.1  <br/>Plomb total (Pb) 360 B;9;16 CMA/2/IV/19, CMA/2/IV/6, Analyse par ICP-AES: ISO 11885, CMA/2/I/B.1  <br/>Nickel total (Ni) 360 B;9;16 CMA/2/IV/19, CMA/2/IV/6, Analyse par ICP-AES: ISO 11885, CMA/2/I/B.1  <br/>Zinc total (Zn) 360 B;9;16 CMA/2/IV/19, CMA/2/IV/6, Analyse par ICP-AES: ISO 11885, CMA/2/I/B.1  <br/>Mercure total (Hg) 359 B;9;16 CMA/2/IV/20; CMA/2/IV/6; Analyse par CV-AAS: ISO 12846; CMA/2/I/B.3  <br/>&#201;chantillonnage   LA MYCOSPHERE - PRODUCTION DE CHAMPIGNONS ET MYCELIUMS <br/></p>
+<p>BIO <br/> <br/></p>
+<p>  <b> </b>  <br/> <br/>L&#233;gende Accr&#233;ditation / Agr&#233;ment  <br/>B Accr&#233;ditation BELAC 127-TEST (ISO 17025)  <br/>9 Flandre_OVAM  <br/>16 R&#233;gion de Bruxelles-Capitale_LBr_Laboratoire agr&#233;&#233;  <br/>   <br/> <br/>Ce rapport a &#233;t&#233; approuv&#233; par Coppens Gino. <br/> <br/>Les informations d'&#233;chantillonnage en italique sur ce rapport sont fournies par le client. Le Service P&#233;dologique de Belgique n'est pas <br/>responsable des informations fournies par le client. <br/> <br/> <br/>Les r&#233;sultats d'analyse se rapportent exclusivement aux objets analys&#233;s. Si l'&#233;chantillonnage n'a pas &#233;t&#233; effectu&#233; par un &#233;chantillonneur habilit&#233; <br/>par le Service P&#233;dologique de Belgique, les r&#233;sultats s'appliquent &#224; l'&#233;chantillon tel qu'il a &#233;t&#233; re&#231;u.  <br/> <br/>Le rapport d'analyse ne peut &#234;tre reproduit, sauf enti&#232;rement, sans l'accord &#233;crit du Service P&#233;dologique de Belgique asbl. Les donn&#233;es des <br/>incertitudes de mesures des m&#233;thodes accr&#233;dit&#233;es BELAC sont disponibles sur demande. <br/> <br/> <br/>Les analyses sont effectu&#233;es et les conseils sont fournis &#224; la condition que le demandeur renonce &#224; tout droit de revendication de responsabilit&#233;. <br/>Les avis, opinions et conseils ne font pas partie de l'accr&#233;ditation. <br/> <br/> <br/>Fin du rapport. <br/> <br/> </p>
+
+</div></div>
+</body></html>
